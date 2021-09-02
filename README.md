@@ -1,1 +1,7 @@
-# Lanczos-Scatter
+# Abstract 
+
+[INTRODUCE THE PROBLEM]
+
+# Other stuff 
+
+[TABLE OF CONTENTS, INSTALLATION, DEPENDENCIES, FUTURE WORK, etc.]
