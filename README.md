@@ -1,4 +1,4 @@
-The following repository contains an implementation of the standard Lanczos Algorithm `src/lanczos.py`, as well as a notebook containing an example use-case `lanczos.ipynb`. For more information regarding the algorithm itself, visit [https://en.wikipedia.org/wiki/Lanczos_algorithm](https://en.wikipedia.org/wiki/Lanczos_algorithm).
+The following repository contains an implementation of the standard Lanczos Algorithm in `src/lanczos.py`, as well as a notebook `lanczos.ipynb` containing an example use-case. For more information regarding the algorithm itself, visit [https://en.wikipedia.org/wiki/Lanczos_algorithm](https://en.wikipedia.org/wiki/Lanczos_algorithm).
 
 ## Installation
 
