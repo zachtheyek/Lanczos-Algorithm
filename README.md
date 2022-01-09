@@ -1,11 +1,9 @@
-# Abstract 
+The following repository contains an implementation of the standard Lanczos Algorithm `src/lanczos.py`, as well as a notebook containing an example of its usage `lanczos.ipynb`. For more information regarding the algorithm itself, visit [https://en.wikipedia.org/wiki/Lanczos_algorithm](https://en.wikipedia.org/wiki/Lanczos_algorithm).
 
-[INTRODUCE THE PROBLEM]
+## Instalation
 
-# Table of Contents
-* `classic_lanczos.ipynb` and `classic_lanczos.nb` are "sanity checks", where we implement and test the classic Lanczos Algorithm on a known example, and cross-validate our results.
-* `tmp.ipynb` is the latest progress (unstable build).
-
-# Other stuff 
-
-[INSTALLATION, DEPENDENCIES, FUTURE WORK, etc.]
+To import and test the algorithm for yourself, `git clone` the repository into your local machine, and simply run 
+```
+from src.lanczos import lanczos
+```
+assuming your file is contained within the cloned repo.
