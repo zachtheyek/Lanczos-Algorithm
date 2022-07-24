@@ -33,6 +33,4 @@ We refer to steps 2 - 4 as the first iteration steps. Subsequently,
 8. Let $\alpha_j=w_j'v_j$
 9. Let $w_j=w_j'-\alpha_j v_j-\beta_j v_{j-1}$
 
-where $j$ denotes the iteration number, and must satisfy $2\leq j\leq m$. Finally,
-
-10. The output is a tridiagonalized matrix $T$ with $\alpha_1, ..., \alpha_m$ along the main diagonal, and $\beta_2, ..., \beta_m$ along the super- and subdiagonals.
+where $j$ denotes the iteration number, and must satisfy $2\leq j\leq m$. Finally, the output is a tridiagonalized matrix $T$ with $\alpha_1, ..., \alpha_m$ along the main diagonal, and $\beta_2, ..., \beta_m$ along the super- and subdiagonals.
